@@ -1,2 +1,2 @@
-# html-b3-text
+# Basic text properties
 Working with text
