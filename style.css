@@ -1,0 +1,160 @@
+/* 
+text decoration line
+    overline 
+    underline
+    line-through
+    overline underline
+text decoration style
+    solid
+    double
+    dotted
+    dashed
+    wavy
+text decoration color
+    rgb
+    rgba
+    hex
+    name
+ */
+
+/* h1{
+    text-decoration: overline red dotted;
+    text-decoration-line: overline;
+    text-decoration-color: red;
+    text-decoration-style: dotted;
+}
+
+h2{
+    text-decoration: underline wavy #f00;
+}
+
+h3{
+    text-decoration: line-through dashed rgb(0, 200, 0);
+}
+
+h4{
+    text-decoration: overline underline double rgba(0, 0, 200, 1);
+}
+
+ */
+/* 
+h1{
+    background-color: black;
+    color: wheat;
+} */
+
+
+/* 
+text align property
+    right
+    center
+    left
+    justify
+ */
+
+/* h4 {
+    text-align: right;
+    text-align: center;
+    text-align: left;
+    text-align: justify; 
+    
+} */
+
+
+/* p{
+    text-align: justify;
+} */
+
+/* 
+text align last property
+    right
+    center
+    left
+    justify
+*/
+
+/* p{
+    text-align-last: right;
+    text-align-last: left;
+    text-align-last: center;
+    text-align-last: justify;
+} */
+
+/* 
+Change text direction
+    ltr
+    rtl
+*/
+
+/* h4{
+    direction: ltr;
+    direction: rtl;
+} */
+
+/* 
+Play with text case
+    uppercase
+    lowercase
+    capitalize
+*/
+
+/* h1{
+    text-transform: uppercase;
+}
+
+h2{
+    text-transform: lowercase;
+}
+
+h3{
+    text-transform: capitalize;
+} */
+/* 
+p{
+    text-indent: 40px;
+} */
+
+/*
+Letter spacing
+*/
+/* p{
+    letter-spacing: 1px;
+} */
+
+/*
+Word spacing
+*/
+/* p{
+    word-spacing: 10px;
+} */
+
+/* Line height */
+/* p{
+    line-height: 20px;
+}
+h1{
+    line-height: 20px;
+} */
+
+/* p{
+    white-space: wrap;
+} */
+
+/* Text shadow */
+
+/* h4{
+    text-shadow: 0 0 5px #000, 0 0 5px #F00, 1px 1px 5px #00f;
+    color: #FFF;
+} */
+
+
+/* Overflow
+    elipsis
+    clip
+*/
+
+/* p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} */
