@@ -1,0 +1,40 @@
+.heading{
+    background-color: cadetblue;
+}
+
+th{
+    padding: 10px 20px;
+}
+
+td{
+    padding: 10px;
+    /* border: 3px solid cornflowerblue;
+    border-top: 0; */
+}
+
+tr{
+    background-color: #999;
+}
+
+/* tr>td:first-child{
+    background-color: cornflowerblue;
+} */
+
+tr:hover>td:first-child{
+    background-color: darkblue;
+    color: #FFF;
+}
+
+
+
+/* 
+table
+    border
+    cellspacing
+    cellpadding
+tr
+th, td
+    rowspan
+    colspan
+
+*/
