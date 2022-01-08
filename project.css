@@ -1,0 +1,41 @@
+.container{
+    border: 5px solid darkblue;
+    background-color: greenyellow;
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+h1{
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 28px;
+}
+
+.option{
+    background-color: darkblue;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 15px;
+    font-weight: normal;
+}
+
+.result{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.button{
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: auto;
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+}
